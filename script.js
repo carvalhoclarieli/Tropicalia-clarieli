@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function(){
     })
 });
 
-ScrollReveal().reaveal('#inicio', {delay: 500});
-ScrollReveal().reaveal('#galeria', {delay: 500});
-ScrollReveal().reaveal('#tropicália', {delay: 500});
-ScrollReveal().reaveal('#contato', {delay: 500});
+ScrollReveal().reveal('#inicio', {delay: 500});
+ScrollReveal().reveal('#galeria', {delay: 500});
+ScrollReveal().reveal('#tropicália', {delay: 500});
+ScrollReveal().reveal('#contato', {delay: 500});
